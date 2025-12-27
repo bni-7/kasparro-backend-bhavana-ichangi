@@ -1,0 +1,11 @@
+coin_id,name,symbol,price_usd,market_cap,volume_24h
+btc-bitcoin,Bitcoin,BTC,45000,850000000000,25000000000
+eth-ethereum,Ethereum,ETH,2500,300000000000,15000000000
+usdt-tether,Tether,USDT,1,95000000000,45000000000
+bnb-binance-coin,BNB,BNB,320,50000000000,1200000000
+sol-solana,Solana,SOL,105,45000000000,2500000000
+xrp-ripple,XRP,XRP,0.62,33000000000,1800000000
+ada-cardano,Cardano,ADA,0.58,20000000000,450000000
+doge-dogecoin,Dogecoin,DOGE,0.095,13500000000,850000000
+dot-polkadot,Polkadot,DOT,7.2,9000000000,320000000
+matic-polygon,Polygon,MATIC,0.85,8000000000,380000000
